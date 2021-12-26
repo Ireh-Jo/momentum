@@ -1,2 +1,2 @@
-# kokoa-clone-2021
+# Momentum
 https://ireh-jo.github.io/momentum/
